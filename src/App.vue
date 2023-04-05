@@ -3,17 +3,17 @@
 
     const products = [
         {
-            img: '/src/assets/box1.jpg',
+            img: '/public/box1.jpg',
             amount: 1,
             price: 250
         },
         {
-            img: '/src/assets/box2.jpg',
+            img: '/public/box2.jpg',
             amount: 2,
             price: 350
         },
         {
-            img: '/src/assets/box3.jpg',
+            img: '/public/box3.jpg',
             amount: 3,
             price: 450
         },
